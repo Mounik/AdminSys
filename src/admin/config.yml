@@ -46,11 +46,11 @@ collections:
     create: true
     fields:
       - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/post.njk"}
-      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Titre", name: "title", widget: "string"}
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
-      - {label: "Social Image", name: "socialImage", widget: "image", required: false}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "Image Sociale", name: "socialImage", widget: "image", required: false}
+      - {label: "Date de Publication", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Body", name: "body", widget: "markdown"}
   - label: "Globals"
@@ -79,9 +79,9 @@ collections:
             name: "items"
             widget: "list"
             fields:
-              - {label: "Text", name: "text", widget: "string"}
+              - {label: "Texte", name: "text", widget: "string"}
               - {label: "Url", name: "url", widget: "string"}
-              - {label: "Is url to external site?", name: "external", widget: "boolean", required: false}
+              - {label: "Est-ce une url vers un site externe", name: "external", widget: "boolean", required: false}
       - label: "Réglages du Thème"
         name: "theme"
         delete: false
