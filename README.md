@@ -7,6 +7,8 @@ Démarrez maintenant en **[déployant Hylia vers Netlify.][deploy-to-netlify]**
 
 <img src="https://hankchizljaw.imgix.net/hylia-github.jpg?auto=format&q=60" width="550" />
 
+[![Statut Netlify](https://api.netlify.com/api/v1/badges/efd9e384-1d0b-4c13-8dcf-14472859be46/deploy-status)](https://app.netlify.com/sites/hylia-master/deploys)
+
 ## Fonctionnalités 
 
 Les fonctionnalités d'Hylia version 0.3.1 :
