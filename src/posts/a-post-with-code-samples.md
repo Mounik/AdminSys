@@ -1,8 +1,8 @@
 ---
-title: A post with code samples
+title: Un article avec de l'échantillon de code
 date: '2019-06-18'
 tags:
-  - demo-content
+  - contenu-demo
   - code
   - blog
 ---
