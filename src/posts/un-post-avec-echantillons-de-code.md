@@ -10,9 +10,9 @@ La meilleure façon de produire une démo d'un article de code, c'est afficher u
 
 - - -
 
-Il peut vous arriver de vouloir sortir vos composants des contraintes dans lesquels ils se trouvent embarqués. Une situation commune où cela arrive, est quand vous n'avez pas beaucoup de contrôle du conteneur dans lequel il existe, par exemple une aire du contenu principal d'un CMS.
+Il peut vous arriver de vouloir sortir vos composants des contraintes dans lesquels ils se trouvent embarqués. Une situation commune où cela arrive : quand vous n'avez pas beaucoup de contrôle du conteneur dans lequel il existe, par exemple l’aire du contenu principal d'un CMS.
 
-C'est même encore plus le cas avec des outils d'édition comme l'[éditeur ](https://wordpress.org/gutenberg/)[Gutenberg de ](https://wordpress.org/gutenberg/)[WordPress](https://wordpress.org/gutenberg/), où en théorie, vous pourriez extraire un composant d'un système de design et l'utiliser dans le contenu principal de votre page web. Dans de telles situations, il peut être très utile d’avoir un petit utilitaire qui fera que l'élément prend 100% de la largeur de la fenêtre de visualisation _et_ conserve son flow dans son conteneur parent.
+C'est même encore plus le cas avec des outils d'édition comme l'[éditeur Gutenberg de WordPress](https://wordpress.org/gutenberg/), où en théorie, vous pourriez extraire un composant d'un système de design et l'utiliser dans le contenu principal de votre page web. Dans de telles situations, il peut être très utile d’avoir un petit utilitaire qui fera que l'élément prend 100% de la largeur de la fenêtre de visualisation _et_ conserve son flow dans son conteneur parent.
 
 C'est à ce moment-là que je sors de mon chapeau la classe utilitaire `.full-bleed`.
 
