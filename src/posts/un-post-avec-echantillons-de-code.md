@@ -6,14 +6,13 @@ tags:
   - code
   - blog
 ---
-
 La meilleure façon de produire une démo d'un article de code, c'est afficher un article dans la vraie vie, aussi regardez celui provenant d'[andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/) concernant un utilitaire de CSS full-bleed.
 
 - - -
 
-Il peut vous arriver de vouloir sortir vos composants des contraintes dans lesquels ils se trouvent embarqués. Une situation commune où cela arrive, est quand vous n'avez pas beaucoup de contrôle du conteneur dans lequel il existe, par exemple une aire du contenu principal d'un CMS.
+Il peut vous arriver de vouloir sortir vos composants des contraintes dans lesquels ils se trouvent embarqués. Une situation commune où cela arrive : quand vous n'avez pas beaucoup de contrôle du conteneur dans lequel il existe, par exemple l’aire du contenu principal d'un CMS.
 
-C'est même encore plus le cas avec des outils d'édition comme l'[éditeur WordPress Gutenberg](https://wordpress.org/gutenberg/), où en théorie, vous pourriez extraire un composant d'un système de design et l'utiliser dans le contenu principal de votre page web. Dans ces situations, il peut être très utile d’avoir un petit utilitaire qui fera que l'élément prend 100% de la largeur de la fenêtre de visualisation _et_ conserve son flow dans son conteneur parent.
+C'est même encore plus le cas avec des outils d'édition comme l'[éditeur Gutenberg de WordPress](https://wordpress.org/gutenberg/), où en théorie, vous pourriez extraire un composant d'un système de design et l'utiliser dans le contenu principal de votre page web. Dans de telles situations, il peut être très utile d’avoir un petit utilitaire qui fera que l'élément prend 100% de la largeur de la fenêtre de visualisation _et_ conserve son flow dans son conteneur parent.
 
 C'est à ce moment-là que je sors de mon chapeau la classe utilitaire `.full-bleed`.
 
@@ -63,8 +62,6 @@ Pour finir, nous utilisons le transformateur CSS   `translateX(-50%)`. Parce que
 ## Emballé
 
 Espérons que cette astuce courte et douce vous aidera dans vos projets. Si c'est le cas, envoyez-moi un [tweet](https://twitter.com/andybelldesign), car j'aimerais beaucoup le voir !
-
-
 
 The best way to demo a code post is to display a real life post, so check out this one from [andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/) about a full bleed CSS utility.
 
