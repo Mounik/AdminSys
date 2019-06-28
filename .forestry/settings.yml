@@ -30,4 +30,9 @@ file_template: ":filename:"
 instant_preview: true
 build:
   preview_command: npm start
-  preview_output_directory: dist
+  preview_env:
+  - ELEVENTY_ENV=staging
+  preview_output_directory: src/dist
+  instant_preview_command: npm start
+  preview_docker_image: node:10
+  mount_path: "/srv"
