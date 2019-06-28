@@ -8,9 +8,12 @@ fields:
 - type: datetime
   name: date
   label: date
+  config:
+    date_format: YYYY-MM-DD
+    export_format: YYYY-MM-DD
 - type: list
   name: tags
   label: tags
 pages:
-- src/posts/essai-post-forestry.md
+- src/posts/essai-post-cms-forestry.md
 - src/posts/essai-post-cms-forestry.md
