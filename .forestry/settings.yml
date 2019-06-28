@@ -5,6 +5,20 @@ admin_path: Forestry
 webhook_url: 
 sections:
 - type: directory
+  path: src/pages
+  label: Pages
+  create: all
+  match: "**/*"
+- type: document
+  path: src/index.md
+  label: 'index '
+  match: "**/*"
+- type: directory
+  path: src
+  label: Source
+  create: all
+  match: "**/*"
+- type: directory
   path: src/posts
   label: Posts
   create: all
