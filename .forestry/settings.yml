@@ -12,7 +12,6 @@ sections:
 - type: document
   path: src/index.md
   label: 'index '
-  match: "**/*"
 - type: directory
   path: src
   label: Source
