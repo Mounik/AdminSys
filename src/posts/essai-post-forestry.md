@@ -7,7 +7,7 @@ tags:
 ---
 Test d'un premier post avec le CMS Forestry. Essai de [configuration d'un template ](https://forestry.io/docs/settings/front-matter-templates/ "Forestry-template")
 
-## Interruption
+* Le bouton de prévisualisation n'est pas actif.
+* Réglé repo images sur /src/images
 
-* Le bouton de prévisualisation n'est pas actif. 
-* Me reste à régler le repo image  
+![](/src/images/forestry.io 2019-06-28 18-56-06.png)
