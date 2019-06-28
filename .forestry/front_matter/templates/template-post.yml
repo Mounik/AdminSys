@@ -11,3 +11,5 @@ fields:
 - type: list
   name: tags
   label: tags
+pages:
+- src/posts/essai-post-forestry.md
