@@ -1,9 +1,8 @@
 ---
 title: Poster avec le CMS Forestry
-date: 2019-05-28T05:08:00.000+00:00
+date: 2019-05-28T17:11:00.000Z
 tags:
-- CMS, Forestry
-
+  - 'CMS, Forestry'
 ---
 Sur la recommandation de Frank Taillandier, j'effectue ici un premier test de post avec le [Système de Gestion de Contenu Forestry](https://forestry.io "forestry.io").
 
