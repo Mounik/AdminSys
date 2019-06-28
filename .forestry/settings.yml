@@ -25,6 +25,6 @@ sections:
 upload_dir: src/images
 public_path: "/src/images"
 front_matter_path: ''
-use_front_matter_path: 
+use_front_matter_path: true
 file_template: ":filename:"
 instant_preview: true
