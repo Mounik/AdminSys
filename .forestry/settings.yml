@@ -20,8 +20,10 @@ sections:
 - type: directory
   path: src/posts
   label: Posts
-  create: all
-  match: "**/*"
+  create: documents
+  match: "*.md"
+  templates:
+  - template-post
 upload_dir: src/images
 public_path: "/src/images"
 front_matter_path: ''
