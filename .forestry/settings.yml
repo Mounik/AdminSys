@@ -4,17 +4,8 @@ auto_deploy: false
 admin_path: Forestry
 webhook_url: 
 sections:
-- type: directory
-  path: src/_data
-  label: Data
-  create: documents
-  match: "*.json"
-  new_doc_ext: ".json"
 - type: heading
   label: Contenu
-- type: document
-  path: src/index.md
-  label: Accueil
 - type: directory
   path: src/posts
   label: Posts
@@ -22,8 +13,17 @@ sections:
   match: "*.md"
   templates:
   - template-post
+- type: document
+  path: src/index.md
+  label: Accueil
 - type: heading
   label: Données
+- type: directory
+  path: src/_data
+  label: Data
+  create: documents
+  match: "*.json"
+  new_doc_ext: json
 - type: heading
   label: Documentation
 - type: document
