@@ -28,3 +28,6 @@ front_matter_path: ''
 use_front_matter_path: true
 file_template: ":filename:"
 instant_preview: true
+build:
+  preview_command: npm start
+  preview_output_directory: dist
