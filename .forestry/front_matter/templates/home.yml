@@ -1,0 +1,19 @@
+---
+label: Home
+hide_body: false
+fields:
+- type: text
+  name: layout
+  label: layout
+- type: text
+  name: title
+  label: title
+- type: text
+  name: postsHeading
+  label: postsHeading
+- type: text
+  name: archiveButtonText
+  label: archiveButtonText
+- type: text
+  name: socialImage
+  label: socialImage
