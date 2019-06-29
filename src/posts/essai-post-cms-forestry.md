@@ -1,16 +1,16 @@
 ---
 title: Poster avec le CMS Forestry
-date: 2019-05-28T17:11:00.000Z
+date: 2019-06-28T17:11:00.000Z
 tags:
-  - 'CMS, Forestry'
+  - CMS Forestry
 ---
 Sur la recommandation de Frank Taillandier, j'effectue ici un premier test de post avec le [Système de Gestion de Contenu Forestry](https://forestry.io "forestry.io").
 
-Importé ce site Hylia-master -en suivant les indications après avoir cliqué sur Add site, puis _Others (importeur générique pour tout dépôt Git)_.
+Importé ce site `Hylia-master` -en suivant les indications après avoir cliqué sur Add site, puis _Others (importeur générique pour tout dépôt Git)_.
 
-Premier essai de [configuration d'un gabarit](https://forestry.io/docs/settings/front-matter-templates/ "Template Front Matter pour Forestry") crée à partir d'un article existant.
+Premier essai de [configuration d'un gabarit](https://forestry.io/docs/settings/front-matter-templates/ "Template Front Matter pour Forestry") créé à partir d'un article existant.
 
-Configuration de la barre latérale pour afficher les différentes section du site :
+Configuration de la barre latérale pour afficher les différentes sections du site :
 
 * les articles,
 * la page d'accueil,
@@ -20,8 +20,7 @@ Configuration de la barre latérale pour afficher les différentes section du si
 Interface minimaliste et réactive : l'écran est pensé pour éditer d'un côté le front matter et de l'autre l'édition au format Markdown.
 
 ![](/images/forestry-cms.png)
+   
+Après une modification d'un simple clic, on peut voir le rendu final sur une URL dédiée. En coulisse, l'image Docker Node qui a fait tourner la commande `eleventy --serve` en arrière plan va déclencher la régénération, l'opération ne prend que quelques secondes.
 
-Prévisualisation activée et fonctionnelle.    
-Après une modification d'un simple clic on peut voir le rendu final sur une URL dédiée. En coulisse, l'image Docker Node qui a fait tourner la commande `eleventy --serve` en arrière plan va déclencher la régénération, l'opération ne prend que quelques secondes.
-
-Forestry se synchrone avec le dépôt Git en arrière-plan. Le déploiement est déclenché automatiquement du côté de chez Netlify.
+Forestry se synchronise avec le dépôt Git en arrière-plan. Le déploiement est déclenché automatiquement du côté de chez Netlify.
