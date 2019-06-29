@@ -1,10 +1,11 @@
 ---
 title: Un article avec des échantillons de code
-date: '2019-06-26'
+date: 2019-06-25T22:00:00Z
 tags:
-  - contenu-demo
-  - code
-  - blog
+- contenu-demo
+- code
+- blog
+
 ---
 La meilleure façon de produire une démo d'un article de code, c'est afficher un article dans la vraie vie, aussi regardez celui provenant d'[andy-bell.design](https://andy-bell.design/wrote/creating-a-full-bleed-css-utility/) concernant un utilitaire de CSS full-bleed.
 
