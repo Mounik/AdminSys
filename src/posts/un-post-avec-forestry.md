@@ -5,7 +5,7 @@ tags:
 - CMS Forestry
 
 ---
-Sur la recommandation de Frank Taillandier, j'effectue ici un premier test de post avec le [Système de Gestion de Contenu Forestry](https://forestry.io "forestry.io").
+Sur la recommandation de Frank Taillandier, je poste cet article à partir de l'interface-utilisateur du [CMS Forestry](https://forestry.io "forestry.io").
 
 Importé ce site `Hylia-master` -en suivant les indications après avoir cliqué sur Add site, puis _Others (importeur générique pour tout dépôt Git)_.
 
@@ -25,3 +25,4 @@ Interface minimaliste et réactive : l'écran est pensé pour éditer d'un côt�
 Après une modification d'un simple clic, on peut voir le rendu final sur une URL dédiée. En coulisse, l'image Docker Node qui a fait tourner la commande `eleventy --serve` en arrière plan va déclencher la régénération, l'opération ne prend que quelques secondes.
 
 Forestry se synchronise avec le dépôt Git en arrière-plan. Le déploiement est déclenché automatiquement du côté de chez Netlify.
+
