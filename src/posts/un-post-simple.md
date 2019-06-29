@@ -6,7 +6,7 @@ tags:
   - post-simple
   - blog
 ---
-Un premier post simple pour démontrer à quoi ressemblera un article de blog normal sur le projet Marquises. Le contenu est paramétré dans le champ “Body” sous forme de markdown et  Eleventy le transforme en un article HTML propre. Vous pouvez aussi éditer directement le fichier markdown si vous préférez ne pas utiliser le CMS.
+Un premier post simple pour démontrer à quoi ressemblera un article de blog normal sur Hylia. Le contenu est paramétré dans le champ “Body” sous forme de markdown et Eleventy le transforme en un article HTML propre. Vous pouvez aussi éditer directement le fichier markdown si vous préférez ne pas utiliser le CMS.
 
 Et que penser d'un bloc de citation  `<blockquote>` ?
 
@@ -24,5 +24,6 @@ Et une liste ordonnée de trucs :
 2. Aenean lacinia bibendum nulla sed consectetur
 3. Sed posuere consectetur est at lobortis
 
+En espérant que ceci ait pu démontrer la simplicité de produire un joli petit blog avec Hylia.
 
-Je regarderai plus tard l'aperçu de mise en page avec Patrice et mes amis vagabonds.
+
