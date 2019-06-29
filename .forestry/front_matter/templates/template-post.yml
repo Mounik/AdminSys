@@ -14,5 +14,3 @@ fields:
 - type: list
   name: tags
   label: tags
-pages:
-- src/posts/post-à-partir-d-un-iphone.md
