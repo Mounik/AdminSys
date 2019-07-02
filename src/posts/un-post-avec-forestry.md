@@ -1,6 +1,6 @@
 ---
 title: Poster avec le CMS Forestry
-date: 2019-06-28T17:11:00.000+00:00
+date: 2019-07-01
 tags:
 - CMS Forestry
 
@@ -26,3 +26,6 @@ Après une modification d'un simple clic, on peut voir le rendu final sur une UR
 
 Forestry se synchronise avec le dépôt Git en arrière-plan. Le déploiement est déclenché automatiquement du côté de chez Netlify.
 
+### Bug en date du 2 juillet  
+
+* À cette heure, tant sur Safari que Firefox pour Mac, je ne parviens pas à mettre à jour la date de publication au 2 juillet. L'UI me renvoie au 1er juillet 
