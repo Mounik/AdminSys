@@ -7,7 +7,7 @@ tags:
 - hylia
 
 ---
-\# Eating my own dog food
+\# Manger ma propre nourriture pour chien 
 
 Pour ceux qui me suivent sur Twitter, vous pourriez avoir aperçu ce \[sondage que j'ai créé\]([https://mobile.twitter.com/andybelldesign/status/1145412384896495617](https://mobile.twitter.com/andybelldesign/status/1145412384896495617 "https://mobile.twitter.com/andybelldesign/status/1145412384896495617")):
 
@@ -23,22 +23,14 @@ Mon site est actuellement assez volumineux, avec tous les articles, notes et lie
 
 Je souhaite également utiliser mon site pour tester les nouvelles fonctionnalités d'Hylia. Le premier jeu avec lequel je vais jouer est l’ajout de webmentions. J'aime garder les choses transparentes, alors voici \[mon tableau de bord Notion\]([https://www.notion.so/8e70bfa1150b4f188126ccfb1818de3a?v=bd571ada8b16432e93af4d00ba084090](https://www.notion.so/8e70bfa1150b4f188126ccfb1818de3a?v=bd571ada8b16432e93af4d00ba084090 "https://www.notion.so/8e70bfa1150b4f188126ccfb1818de3a?v=bd571ada8b16432e93af4d00ba084090")), par conséquent vous pouvez observer sur quoi je suis en train de jouer et ce sur quoi j'envisage de jouer. Vous pouvez aussi regarder le \[code source du site\]([https://github.com/andybelldesign/personal-site-hylia/](https://github.com/andybelldesign/personal-site-hylia/ "https://github.com/andybelldesign/personal-site-hylia/")).
 
-\## Je suis déjà en train de pousser dans Hylia\[permalink\]([https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-i](https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-i "https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-i")'m-already-pushing-back-into-hylia)
+\## Je suis déjà en train de pousser dans Hylia
 
-L'un des plus gros avantages du \[dogfooding\]([https://en.wikipedia.org/wiki/Eating_your_own_dog_food](https://en.wikipedia.org/wiki/Eating_your_own_dog_food "https://en.wikipedia.org/wiki/Eating_your_own_dog_food")) sur Hylia est je suis constramment en train de trouver des voies pour l'améliorer. Heck, I’ve already pushed \[a release\]([https://github.com/andybelldesign/hylia/releases/tag/0.4.2](https://github.com/andybelldesign/hylia/releases/tag/0.4.2 "https://github.com/andybelldesign/hylia/releases/tag/0.4.2")) out with UI issues that I found while migrating my site!
+L'un des plus gros avantages du \[dogfooding\]([https://fr.wikipedia.org/wiki/Dogfooding](https://fr.wikipedia.org/wiki/Dogfooding "https://fr.wikipedia.org/wiki/Dogfooding")) sur Hylia est je suis constramment en train de trouver des voies pour l'améliorer. Zut, j'ai déjà poussé \[une mise à jour\]([https://github.com/andybelldesign/hylia/releases/tag/0.4.2](https://github.com/andybelldesign/hylia/releases/tag/0.4.2 "https://github.com/andybelldesign/hylia/releases/tag/0.4.2")) avec des problématiques d'UI que j'ai trouvées lors de la migration de mon site ! 
 
-I spend a lot of time messing around with my site, so I’ll get plenty of exposure to my own project. I imagine that I’ll keep finding little niggles as I slowly review how the content on the site now runs, so expect more of these little releases over time.
+Je passe beaucoup de temps à bricoler mon site et je vais donc pouvoir me familiariser avec mon propre projet. J'imagine que je vais continuer à trouver de petits problèmes au fur et à mesure que je passe en revue le fonctionnement du contenu du site. Attendez-vous donc à recevoir davantage de ces publications avec le temps.
 
-\## A long redesign process\[permalink\]([https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-a-long-redesign-process](https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-a-long-redesign-process "https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-a-long-redesign-process"))
+\## Un long processus de redesign
 
-As I insinuated on Twitter, this is going to be a very long, slow redesign process. I kind of needed this hard line in the sand because the codebase of the old design was a complete mess. The site looked great, but maintaining it and improving it was a chore.
+Comme je l'insinuais sur Twitter, ceci va être un très long processus de redesign.  J'avais un peu besoin de cette ligne dure dans le sable parce que la base de code de l'ancien design était un désordre total. Le site avait fière allure, mais le maintenir et l’améliorer était une corvée.
 
-Hopefully now, I’ll find it easier to improve my site, add some Indieweb stuff and more importantly, turn it into a helpful tool for landing new freelance gigs!
-
-\## Hi 👋
-
-I’m Andy, a freelance web designer\[permalink\]([https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-hi-i](https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-hi-i "https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-hi-i")'m-andy-a-freelance-web-designer)
-
-I’m currently looking to book web design and front-end development projects from September 2019, onwards.
-
-\[Hire me\](mailto:me@andy-bell.design?subject=Hi%20there%20%F0%9F%91%8B%20I%E2%80%99d%20love%20to%20hire%20you)
+J'espère maintenant que je trouverai plus facile d'améliorer mon site, d'ajouter quelques éléments d'Indieweb et, plus important encore, parvenir à le transformer en un outil utile pour la création en freelance de nouveaux _gigs_ (NDT : comment traduire gigs ? concerts, cabriolets ou charrettes ) !
