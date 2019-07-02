@@ -28,4 +28,4 @@ Forestry se synchronise avec le dépôt Git en arrière-plan. Le déploiement es
 
 ### Bug en date du 2 juillet  
 
-* À cette heure, tant sur Safari que Firefox pour Mac, je ne parviens pas à mettre à jour la date de publication au 2 juillet. L'UI me renvoie au 1er juillet 
+* À cette heure (2019-07-02T13:02), tant sur Safari que Firefox pour Mac, je ne parviens pas à mettre à jour la date de publication au 2 juillet. L'UI me renvoie au 1er juillet 
