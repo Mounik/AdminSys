@@ -11,7 +11,7 @@ Démarrez maintenant en **[déployant Hylia vers Netlify.][deploy-to-netlify]**
 
 ## Fonctionnalités 
 
-Les fonctionnalités d'Hylia version 0.3.1 :
+Les fonctionnalités d'Hylia version 0.4.0 :
 
 ✍️ Un [CMS Netlify](https://www.netlifycms.org/) pré-configuré  
 🎨 des design tokens personnalisables et que vous pouvez créer vous-mêmes 

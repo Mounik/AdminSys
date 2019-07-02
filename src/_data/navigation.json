@@ -1,18 +1,18 @@
 {
   "items": [
     {
-      "text": "Accueil",
+      "text": "Home",
       "url": "/",
       "external": false
     },
     {
       "text": "GitHub",
-      "url": "https://github.com/ChristopheDucamp/hylia-master",
+      "url": "https://github.com/andybelldesign/hylia",
       "external": true
     },
     {
       "text": "Twitter",
-      "url": "https://twitter.com/xtof_party",
+      "url": "https://twitter.com/andybelldesign",
       "external": true
     }
   ]
