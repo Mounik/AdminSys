@@ -59,9 +59,9 @@ class ThemeToggle extends HTMLElement {
 
   setButtonLabelAndStatus(currentSetting) {
     this.modeToggleButton.innerText = `${
-      currentSetting === 'dark' ? 'Light' : 'Dark'
+      currentSetting === 'dark' ? 'Jour' : 'Nuit'
     } theme`;
-    this.modeStatusElement.innerText = `Color mode is now "${currentSetting}"`;
+    this.modeStatusElement.innerText = `La couleur est désormais "${currentSetting}"`;
   }
 
   render() {
@@ -69,7 +69,7 @@ class ThemeToggle extends HTMLElement {
       <div class="[ theme-toggle ] [ md:ta-right gap-top-500 ]">
         <div role="status" class="[ visually-hidden ][ js-mode-status ]"></div>
         <button class="[ button ] [ font-base text-base weight-bold ] [ js-mode-toggle ]">
-          Dark theme
+          Thème sombre
         </button>
       </div>
     `;
