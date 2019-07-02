@@ -1,10 +1,11 @@
 ---
 title: 'Andy Bell : "Eating my Own Dog Food"'
-date: 2019-07-02T00:00:00.000Z
+date: 2019-07-02
 tags:
-  - indieweb
-  - dogfood
-  - hylia
+- indieweb
+- dogfood
+- hylia
+
 ---
 _Voici une traduction à la volée d'un article d'Andy Bell publié aujourd'hui sur son site personnel. [Seul le lien original fait office de référence](https://andy-bell.design/wrote/eating-my-own-dog-food/ "Andy Bell : Eating my own dogwood "). Cette traduction est publiée pour étude d'une migration de mon site personnel -motorisé par GoHugo- sur le kit de démarrage Hylia pour 11ty. -- xtof_
 
