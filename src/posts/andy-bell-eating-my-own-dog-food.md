@@ -9,9 +9,7 @@ tags:
 ---
 \# Eating my own dog food
 
-2nd July 2019 — 3 minute read
-
-Pour ceux qui me silent sur Twitter, vous pourriez avoir aperçu ce \[sondage que j'ai créé\]([https://mobile.twitter.com/andybelldesign/status/1145412384896495617](https://mobile.twitter.com/andybelldesign/status/1145412384896495617 "https://mobile.twitter.com/andybelldesign/status/1145412384896495617")):
+Pour ceux qui me suivent sur Twitter, vous pourriez avoir aperçu ce \[sondage que j'ai créé\]([https://mobile.twitter.com/andybelldesign/status/1145412384896495617](https://mobile.twitter.com/andybelldesign/status/1145412384896495617 "https://mobile.twitter.com/andybelldesign/status/1145412384896495617")):
 
 > Poll: do I just burn my site to the ground and roll out Hylia and slowly redesign it over the next few months?
 
@@ -19,7 +17,7 @@ Les résultats furent stupéfiants \`79%\`  pour  et \`21%\` contre, aussi j'
 
 \## Parti pour une longue route\[permalink\]([https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-a-long-road-ahead](https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-a-long-road-ahead "https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-a-long-road-ahead"))
 
-Je n’ai pas vraiment le temps ni la volonté de remodeler mon site Web pour le moment, mais j’ai le temps de l’utiliser pour tester les limites d’Hylia. Je souhaite qu'Hylia soit aussi flexible que possible. Ainsi, dans ma tête, si je le pousse aussi loin que je le peux, je l’améliorerai à jamais, même pour les cas d’utilisation les plus élémentaires.
+Je n’ai ni vraiment le temps ni la volonté de remodeler mon site Web pour le moment, mais j’ai le temps de l’utiliser pour tester les limites d’Hylia. Je souhaite qu'Hylia soit aussi flexible que possible. Ainsi, dans ma tête, si je le pousse aussi loin que je le peux, je l’améliorerai à jamais, même pour les cas d’utilisation les plus élémentaires.
 
 Mon site est actuellement assez volumineux, avec tous les articles, notes et liens. Il est donc bon de voir comment Hylia gère cette quantité de contenu. Jusqu'ici tout va bien !
 
@@ -37,7 +35,7 @@ As I insinuated on Twitter, this is going to be a very long, slow redesign proce
 
 Hopefully now, I’ll find it easier to improve my site, add some Indieweb stuff and more importantly, turn it into a helpful tool for landing new freelance gigs!
 
-\## Hi 👋  
+\## Hi 👋
 
 I’m Andy, a freelance web designer\[permalink\]([https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-hi-i](https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-hi-i "https://andy-bell.design/wrote/eating-my-own-dog-food/#heading-hi-i")'m-andy-a-freelance-web-designer)
 
