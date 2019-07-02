@@ -5,7 +5,7 @@ tags:
 - CMS Forestry
 
 ---
-Sur la recommandation de Frank Taillandier, je poste cet article à partir de l'interface-utilisateur du [CMS Forestry](https://forestry.io "forestry.io").
+Sur la recommandation de [Frank Taillandier](https://frank.taillandier.me "https://frank.taillandier.me"), je poste cet article à partir de l'interface-utilisateur du [CMS Forestry](https://forestry.io "forestry.io").
 
 Importé ce site `Hylia-master` -en suivant les indications après avoir cliqué sur Add site, puis _Others (importeur générique pour tout dépôt Git)_.
 
