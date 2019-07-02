@@ -1,9 +1,8 @@
 ---
 title: Poster avec le CMS Forestry
-date: 2019-07-01
+date: 2019-07-02T12:00:00.000Z
 tags:
-- CMS Forestry
-
+  - CMS Forestry
 ---
 Sur la recommandation de Frank Taillandier, je poste cet article à partir de l'interface-utilisateur du [CMS Forestry](https://forestry.io "forestry.io").
 
@@ -28,4 +27,4 @@ Forestry se synchronise avec le dépôt Git en arrière-plan. Le déploiement es
 
 ### Bug en date du 2 juillet  
 
-* À cette heure (2019-07-02T13:02), tant sur Safari que Firefox pour Mac, je ne parviens pas à mettre à jour la date de publication au 2 juillet. L'UI me renvoie au 1er juillet 
+* À cette heure (2019-07-02T13:02), tant sur Safari que Firefox pour Mac, je ne parviens pas à mettre à jour la date de publication au 2 juillet. L'UI me renvoie au 1er juillet. Une solution de contournement consiste à cliquer sur le 4 juillet. 
