@@ -7,7 +7,7 @@ tags:
 - hylia
 
 ---
-\# Manger ma propre nourriture pour chien 
+_Ce qui suit est une traduction à la volée d'un article d'Andy Bell publié aujourd'hui sur son site personnel._ [_Seul le lien original fait office de référence_](https://andy-bell.design/wrote/eating-my-own-dog-food/ "Andy Bell : Eating my own dogwood ")_. Cette traduction est publiée à titre d'étude pour envisager une migration de mon site personnel motorisé par GoHugo sur le kit de démarrage Hylia pour 11ty. -- xtof_  
 
 Pour ceux qui me suivent sur Twitter, vous pourriez avoir aperçu ce \[sondage que j'ai créé\]([https://mobile.twitter.com/andybelldesign/status/1145412384896495617](https://mobile.twitter.com/andybelldesign/status/1145412384896495617 "https://mobile.twitter.com/andybelldesign/status/1145412384896495617")):
 
